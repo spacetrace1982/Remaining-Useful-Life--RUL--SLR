@@ -11,4 +11,10 @@ This is the GitHub File repository for the data and RScript used for the analysi
 Within this repository you will find the following files 
 
 
-  
+Excel Files
+SLR Search Outcom analysis.xlsx - Figure found in Section 3.1 graph created in excel. 
+Article Analysis.xlsx -The data used with the R-Script SLR_Outcome_Analysis for creating visuals in section 3.2 of the report. 
+
+
+RScript Files 
+SLR_Outcome_Analysis: for creating visuals in section 3.2 of the report. Script will save the visuals as png files 
